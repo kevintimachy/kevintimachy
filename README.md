@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @kevintimachy
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me kevintimachy@gmail.com
+### Hi there 👋, my name is Kevin
+#### I am a Full Stack Developer
 
-<!---
-kevintimachy/kevintimachy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills: C++ / JavaScript / Node.js / Express.js / Postgres / MongoDB / HTML / CSS /
+
+- 📫 How to reach me: kevintimachy@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kevintimachy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kevin-timachy//)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kevintimachy&show_icons=true)  
+
+
+
