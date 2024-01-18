@@ -1,8 +1,6 @@
 ### Hi there 👋, my name is Kevin
 #### I am a Full Stack Developer
 
-Skills: C++ / JavaScript / Python / Node.js / Express.js / SQL / MongoDB / HTML / CSS /
-
 - 📫 How to reach me: kevintimachy@gmail.com 
 
 
